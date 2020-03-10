@@ -45,6 +45,21 @@
 
 <channels>
 <channel>
+<name>O STAR WARS</name>
+<thumbnail>https://ia801501.us.archive.org/14/items/starwars5capa/star%20wars%20menu%20capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES1</externallink>
+<fanart>https://ia801501.us.archive.org/14/items/starwars5capa/star%20wars%20menu%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- STAR WARS -[COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>VELOSES E FURIOSOS</name>
 <thumbnail>https://ia801401.us.archive.org/25/items/osenhordosaneisfundo/VELOSES%20E%20FURIOSOS%20-%20CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES3</externallink>
