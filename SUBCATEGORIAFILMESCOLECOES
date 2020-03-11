@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>HARRY POTTER</name>
+<thumbnail>https://ia601406.us.archive.org/10/items/harrypottermenufundo/Harry%20potter%20Menu%20capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES6</externallink>
+<fanart>https://ia801406.us.archive.org/10/items/harrypottermenufundo/Harry%20potter%20Menu%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- HARRY POTTER -[COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>O HOBBIT</name>
 <thumbnail>https://ia801401.us.archive.org/25/items/osenhordosaneisfundo/O%20HOBBIT%20-%20CAPA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES2</externallink>
