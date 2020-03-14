@@ -103,6 +103,21 @@
 
 <channels>
 <channel>
+<name>SEXTA FEIRA 13</name>
+<thumbnail>https://ia601402.us.archive.org/4/items/sextafeira13parte12fundo/sexta%20feira%2013%20menu%20capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES1</externallink>
+<fanart>https://ia801402.us.archive.org/4/items/sextafeira13parte12fundo/sexta%20feira%2013%20menu%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- SEXTA FEIRA 13 -[COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>STAR WARS</name>
 <thumbnail>https://ia801501.us.archive.org/14/items/starwars5capa/star%20wars%20menu%20capa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES5</externallink>
