@@ -21,11 +21,27 @@
 <info>
 
 
-[COLOR red]|[/COLOR]- SAGA CREPÚSCULO -[COLOR red]|[/COLOR]</info>
+[COLOR red]|[/COLOR]- A SAGA CREPÚSCULO -[COLOR red]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>DE VOLTA PARA O FUTURO</name>
+<thumbnail>https://ia801501.us.archive.org/20/items/crepusculofundo/crepusculo%20capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES7</externallink>
+<fanart>https://ia801501.us.archive.org/20/items/crepusculofundo/crepusculo%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- DE VOLTA PARA O FUTURO -[COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
 <name>HARRY POTTER</name>
