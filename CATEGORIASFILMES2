@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR white]CATEGORIA[/COLOR][COLOR red]-->[/COLOR][COLOR white]GÊNEROS[/COLOR]</name>
+<name>[COLOR white]CATEGORIA[/COLOR][COLOR red][b]-->[/b][/COLOR][COLOR white]GÊNEROS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMES</externallink>
 <fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
