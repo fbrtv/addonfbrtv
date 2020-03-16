@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]CATEGORIA[/COLOR][COLOR red]-->[/COLOR][COLOR white]ORDEM ALFABÉTICA[/COLOR]</name>
+<name>[COLOR white]CATEGORIA[/COLOR] [COLOR red][B]►[/B][/COLOR] [COLOR white]ORDEM ALFABÉTICA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMES</externallink>
 <fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]CATEGORIA[/COLOR][COLOR red]-->[/COLOR][COLOR white]ANO DE LANÇAMENTO[/COLOR]</name>
+<name>[COLOR white]CATEGORIA[/COLOR] [COLOR red][B]►[/B][/COLOR] [COLOR white]ANO DE LANÇAMENTO[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMES</externallink>
 <fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
@@ -45,7 +45,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]CATEGORIA[/COLOR][COLOR red]-->[/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<name>[COLOR white]CATEGORIA[/COLOR] [COLOR red][B]►[/B][/COLOR] [COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMES</externallink>
 <fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
@@ -60,7 +60,7 @@
 
 <channels>
 <channel>
-<name>[COLOR white]CATEGORIA[/COLOR][COLOR red]-->[/COLOR][COLOR white]NACIONAIS[/COLOR]</name>
+<name>[COLOR white]CATEGORIA[/COLOR] [COLOR red][B]►[/B][/COLOR] [COLOR white]NACIONAIS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMES</externallink>
 <fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
