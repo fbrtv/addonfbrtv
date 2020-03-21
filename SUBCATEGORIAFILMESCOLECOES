@@ -104,6 +104,21 @@
 
 <channels>
 <channel>
+<name>OLHOS FAMINTOS</name>
+<thumbnail>https://ia601505.us.archive.org/18/items/olhosfamintosmenufundo/olhos%20famintos%20menu%20capa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES2</externallink>
+<fanart>https://ia801505.us.archive.org/18/items/olhosfamintosmenufundo/olhos%20famintos%20menu%20fundo.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- OLHOS FAMINTOS -[COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>O HOBBIT</name>
 <thumbnail>https://archive.org/download/arquivoexibir.aspx/ArquivoExibir.aspx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/SUBCATEGORIAFILMESCOLECOES2</externallink>
