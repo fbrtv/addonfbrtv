@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>CANAIS DE TV</name>
-<thumbnail></thumbnail>
+<thumbnail> </thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/MENUCANAISTV</externallink>
-<fanart></fanart>
+<fanart> </fanart>
 <info>
 
 
@@ -16,9 +16,9 @@
 <channels>
 <channel>
 <name>FILMES</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail> </thumbnail>
+<externallink> </externallink>
+<fanart> </fanart>
 <info>
 
 
@@ -31,9 +31,9 @@
 <channels>
 <channel>
 <name>SÉRIES</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail> </thumbnail>
+<externallink> </externallink>
+<fanart> </fanart>
 <info>
 
 
