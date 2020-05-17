@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>CANAIS DE TV</name>
+<thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/CATEGORIASFILMES2</externallink>
+<fanart>https://ia801409.us.archive.org/17/items/fanart_20200306/fanart.jpg</fanart>
+<info>
+
+
+[COLOR red]|[/COLOR]- OS MELHORES CANAIS DE TV - [COLOR red]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>FILMES</name>
 <thumbnail>https://ia801402.us.archive.org/32/items/osenhordosaneisasociedadedoanelfundo/icone%20filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/fbrtv/addonfbrtv/master/CATEGORIASFILMES2</externallink>
