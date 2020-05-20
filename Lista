@@ -1,3 +1,5 @@
+#EXTM3U
+  
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/31/items/band_20200520/band.jpg" group-title="Canais Abertos",Bandeitantes Nordeste SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/31/items/band_20200520/band.jpg" group-title="Canais Abertos",Bandeitantes SP HD
