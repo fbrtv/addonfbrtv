@@ -1,0 +1,863 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Bandeitantes SP HD">
+    <display-name lang="pt">Bandeitantes SP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Bandeitantes SP SD">
+    <display-name lang="pt">Bandeitantes SP SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Futura HD">
+    <display-name lang="pt">Futura HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Futura SD">
+    <display-name lang="pt">Futura SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo RJ SD">
+    <display-name lang="pt">Globo RJ SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP SD">
+    <display-name lang="pt">Globo SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Polishop TV SD">
+    <display-name lang="pt">Polishop TV SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Record SP HD">
+    <display-name lang="pt">Record SP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record SP SD">
+    <display-name lang="pt">Record SP SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Rede Vida SD">
+    <display-name lang="pt">Rede Vida SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RedeTV! SD">
+    <display-name lang="pt">RedeTV! SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="RIT TV SD">
+    <display-name lang="pt">RIT TV SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SBT SP HD">
+    <display-name lang="pt">SBT SP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT SP SD">
+    <display-name lang="pt">SBT SP SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Aparecida SD">
+    <display-name lang="pt">TV Aparecida SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TV Gazeta SD">
+    <display-name lang="pt">TV Gazeta SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Ra Tim Bum SD">
+    <display-name lang="pt">TV Ra Tim Bum SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200520005000 -0300" stop="20200520014000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520014000 -0300" stop="20200520014500 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520014500 -0300" stop="20200520023000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Justiça Implacável</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520023000 -0300" stop="20200520024000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">+info</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520024000 -0300" stop="20200520034500 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Jornal da Band</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520034500 -0300" stop="20200520060000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">1º Jornal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520070000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Seeduc No Ar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520070000 -0300" stop="20200520080000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Igreja Mundial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520080000 -0300" stop="20200520090000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Bora Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520090000 -0300" stop="20200520110000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520110000 -0300" stop="20200520123000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520123000 -0300" stop="20200520133000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Me Salva, Shoptime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Seeduc No Ar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520160000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520160000 -0300" stop="20200520185000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520185000 -0300" stop="20200520192000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520192000 -0300" stop="20200520202000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520202000 -0300" stop="20200520211000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520211000 -0300" stop="20200520215700 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520215700 -0300" stop="20200520220000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520224500 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Band Notícias</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520224500 -0300" stop="20200521002000 -0300" channel="Bandeitantes SP HD">
+    <title lang="pt">Cine Clube: O Idiota do Meu Irmão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520061500 -0300" channel="Futura SD">
+    <title lang="pt">Conexão Futura</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520061500 -0300" stop="20200520063000 -0300" channel="Futura SD">
+    <title lang="pt">Turma da Robótica</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200520063000 -0300" stop="20200520064500 -0300" channel="Futura SD">
+    <title lang="pt">Ciência Para Todos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520064500 -0300" stop="20200520070000 -0300" channel="Futura SD">
+    <title lang="pt">Coletivando: O Conhecimento Muito Além da Sala de Aula</title>
+    <category lang="pt">Documentário/Educativo</category>
+  </programme>
+  <programme start="20200520070000 -0300" stop="20200520073000 -0300" channel="Futura SD">
+    <title lang="pt">Experimentos</title>
+    <category lang="pt">Séries/Ciência</category>
+  </programme>
+  <programme start="20200520073000 -0300" stop="20200520074500 -0300" channel="Futura SD">
+    <title lang="pt">Videoaulas #nem1pratras</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520074500 -0300" stop="20200520080000 -0300" channel="Futura SD">
+    <title lang="pt">Videoaulas #nem1pratras</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520080000 -0300" stop="20200520081500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520081500 -0300" stop="20200520083000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520083000 -0300" stop="20200520084500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520084500 -0300" stop="20200520090000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520090000 -0300" stop="20200520091500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520091500 -0300" stop="20200520093000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520093000 -0300" stop="20200520094500 -0300" channel="Futura SD">
+    <title lang="pt">Telas Do Brasil</title>
+    <category lang="pt">Documentário/Biografia</category>
+  </programme>
+  <programme start="20200520094500 -0300" stop="20200520100000 -0300" channel="Futura SD">
+    <title lang="pt">Ciência Para Todos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520100000 -0300" stop="20200520101500 -0300" channel="Futura SD">
+    <title lang="pt">Rotas Sustentáveis - Nordeste</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20200520101500 -0300" stop="20200520103000 -0300" channel="Futura SD">
+    <title lang="pt">Sebastiana Quebra-Galho</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200520103000 -0300" stop="20200520110000 -0300" channel="Futura SD">
+    <title lang="pt">Da Nascente À Foz</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520110000 -0300" stop="20200520111500 -0300" channel="Futura SD">
+    <title lang="pt">Passarinhas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520111500 -0300" stop="20200520113000 -0300" channel="Futura SD">
+    <title lang="pt">Krenak - Vivos Na Natureza Morta</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200520113000 -0300" stop="20200520120000 -0300" channel="Futura SD">
+    <title lang="pt">Amor de Cozinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520121500 -0300" channel="Futura SD">
+    <title lang="pt">Pense Grande.doc</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520121500 -0300" stop="20200520123000 -0300" channel="Futura SD">
+    <title lang="pt">Geração Futura - Faça Você Mesmo</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520123000 -0300" stop="20200520124500 -0300" channel="Futura SD">
+    <title lang="pt">Videoaulas #nem1pratras</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520124500 -0300" stop="20200520130000 -0300" channel="Futura SD">
+    <title lang="pt">Videoaulas #nem1pratras</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520130000 -0300" stop="20200520131500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520131500 -0300" stop="20200520133000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520133000 -0300" stop="20200520134500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520134500 -0300" stop="20200520140000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520140000 -0300" stop="20200520141500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520141500 -0300" stop="20200520143000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520143000 -0300" stop="20200520144500 -0300" channel="Futura SD">
+    <title lang="pt">Telas Do Brasil</title>
+    <category lang="pt">Documentário/Biografia</category>
+  </programme>
+  <programme start="20200520144500 -0300" stop="20200520150000 -0300" channel="Futura SD">
+    <title lang="pt">Ciência Para Todos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520151500 -0300" channel="Futura SD">
+    <title lang="pt">Janelas de Inovação</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520151500 -0300" stop="20200520152000 -0300" channel="Futura SD">
+    <title lang="pt">Astrolab</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520152000 -0300" stop="20200520153000 -0300" channel="Futura SD">
+    <title lang="pt">Vizinhos Selvagens</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520153000 -0300" stop="20200520160000 -0300" channel="Futura SD">
+    <title lang="pt">Acerte o Passo</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200520160000 -0300" stop="20200520161000 -0300" channel="Futura SD">
+    <title lang="pt">Vai Dar Match</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20200520161000 -0300" stop="20200520161500 -0300" channel="Futura SD">
+    <title lang="pt">Sem Patrão</title>
+    <category lang="pt">Séries/Biografia</category>
+  </programme>
+  <programme start="20200520161500 -0300" stop="20200520164500 -0300" channel="Futura SD">
+    <title lang="pt">A Chave</title>
+    <category lang="pt">Séries/Educativo</category>
+  </programme>
+  <programme start="20200520164500 -0300" stop="20200520170000 -0300" channel="Futura SD">
+    <title lang="pt">Ciência Para Todos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520170000 -0300" stop="20200520173000 -0300" channel="Futura SD">
+    <title lang="pt">Sementes do Amanhã</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520173000 -0300" stop="20200520180000 -0300" channel="Futura SD">
+    <title lang="pt">Guerreiros da Floresta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520181500 -0300" channel="Futura SD">
+    <title lang="pt">Conexão Futura</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520181500 -0300" stop="20200520183000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520183000 -0300" stop="20200520184500 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Médio</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520184500 -0300" stop="20200520190000 -0300" channel="Futura SD">
+    <title lang="pt">Telecurso Ensino Fundamental</title>
+    <category lang="pt">Variedades/Educativo</category>
+  </programme>
+  <programme start="20200520190000 -0300" stop="20200520191500 -0300" channel="Futura SD">
+    <title lang="pt">Conexão Futura</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520191500 -0300" stop="20200520193000 -0300" channel="Futura SD">
+    <title lang="pt">Simplex</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520193000 -0300" stop="20200520194500 -0300" channel="Futura SD">
+    <title lang="pt">Ciência Para Todos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520194500 -0300" stop="20200520200000 -0300" channel="Futura SD">
+    <title lang="pt">Um Brasil</title>
+    <category lang="pt">Documentário/Diversos</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520203000 -0300" channel="Futura SD">
+    <title lang="pt">Conexão Futura</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520203000 -0300" stop="20200520203500 -0300" channel="Futura SD">
+    <title lang="pt">Astrolab</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520203500 -0300" stop="20200520204500 -0300" channel="Futura SD">
+    <title lang="pt">Fórmulas em Ação</title>
+    <category lang="pt">Séries/Ciência</category>
+  </programme>
+  <programme start="20200520204500 -0300" stop="20200520210000 -0300" channel="Futura SD">
+    <title lang="pt">Entrevista - Governança na Educação</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520210000 -0300" stop="20200520213000 -0300" channel="Futura SD">
+    <title lang="pt">Tempo da Terra</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200520213000 -0300" stop="20200520214500 -0300" channel="Futura SD">
+    <title lang="pt">Rotas Sustentáveis - Nordeste</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20200520214500 -0300" stop="20200520220000 -0300" channel="Futura SD">
+    <title lang="pt">Bela Raízes</title>
+    <category lang="pt">Séries/Cultural</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520221500 -0300" channel="Futura SD">
+    <title lang="pt">Passarinhas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520221500 -0300" stop="20200520223000 -0300" channel="Futura SD">
+    <title lang="pt">Água de Plantar</title>
+    <category lang="pt">Séries/Meio Ambiente</category>
+  </programme>
+  <programme start="20200520223000 -0300" stop="20200520230000 -0300" channel="Futura SD">
+    <title lang="pt">Guerreiros da Floresta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520230000 -0300" stop="20200520233000 -0300" channel="Futura SD">
+    <title lang="pt">Sementes do Amanhã</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520233000 -0300" stop="20200521000000 -0300" channel="Futura SD">
+    <title lang="pt">Da Nascente À Foz</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520083000 -0300" channel="Globo RJ SD">
+    <title lang="pt">Bom Dia Rio</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520083000 -0300" stop="20200520095000 -0300" channel="Globo RJ SD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520095000 -0300" stop="20200520104100 -0300" channel="Globo RJ SD">
+    <title lang="pt">Combate ao Coronavírus</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520104100 -0300" stop="20200520120000 -0300" channel="Globo RJ SD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520132500 -0300" channel="Globo RJ SD">
+    <title lang="pt">RJ1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520132500 -0300" stop="20200520145800 -0300" channel="Globo RJ SD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520145800 -0300" stop="20200520163800 -0300" channel="Globo RJ SD">
+    <title lang="pt">Sessão da Tarde: Uma Boa Ação</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520163800 -0300" stop="20200520175800 -0300" channel="Globo RJ SD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520175800 -0300" stop="20200520183100 -0300" channel="Globo RJ SD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520183100 -0300" stop="20200520190700 -0300" channel="Globo RJ SD">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520190700 -0300" stop="20200520193800 -0300" channel="Globo RJ SD">
+    <title lang="pt">RJ2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520193800 -0300" stop="20200520203000 -0300" channel="Globo RJ SD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520203000 -0300" stop="20200520213600 -0300" channel="Globo RJ SD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520213600 -0300" stop="20200520223800 -0300" channel="Globo RJ SD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520223800 -0300" stop="20200521003400 -0300" channel="Globo RJ SD">
+    <title lang="pt">Cinema Especial: Jason Bourne</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520083000 -0300" channel="Globo SP SD">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520083000 -0300" stop="20200520095000 -0300" channel="Globo SP SD">
+    <title lang="pt">Bom Dia Brasil</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520095000 -0300" stop="20200520104100 -0300" channel="Globo SP SD">
+    <title lang="pt">Combate ao Coronavírus</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520104100 -0300" stop="20200520120000 -0300" channel="Globo SP SD">
+    <title lang="pt">Encontro com Fátima Bernardes</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520132500 -0300" channel="Globo SP SD">
+    <title lang="pt">SP1</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520132500 -0300" stop="20200520145800 -0300" channel="Globo SP SD">
+    <title lang="pt">Jornal Hoje</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520145800 -0300" stop="20200520163800 -0300" channel="Globo SP SD">
+    <title lang="pt">Sessão da Tarde: Uma Boa Ação</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200520163800 -0300" stop="20200520175800 -0300" channel="Globo SP SD">
+    <title lang="pt">Vale a Pena Ver de Novo: Êta Mundo Bom!</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520175800 -0300" stop="20200520183100 -0300" channel="Globo SP SD">
+    <title lang="pt">Malhação: Viva a Diferença</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520183100 -0300" stop="20200520190700 -0300" channel="Globo SP SD">
+    <title lang="pt">Novo Mundo</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520190700 -0300" stop="20200520193800 -0300" channel="Globo SP SD">
+    <title lang="pt">SP2</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520193800 -0300" stop="20200520203000 -0300" channel="Globo SP SD">
+    <title lang="pt">Totalmente Demais</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520203000 -0300" stop="20200520213600 -0300" channel="Globo SP SD">
+    <title lang="pt">Jornal Nacional</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520213600 -0300" stop="20200520223800 -0300" channel="Globo SP SD">
+    <title lang="pt">Fina Estampa</title>
+    <category lang="pt">Variedades/Novela</category>
+  </programme>
+  <programme start="20200520223800 -0300" stop="20200521003400 -0300" channel="Globo SP SD">
+    <title lang="pt">Cinema Especial: Jason Bourne</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520070000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200520070000 -0300" stop="20200520113000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Gazeta Shopping</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520113000 -0300" stop="20200520120000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Faça Você Mesmo</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520133000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Você Bonita</title>
+    <category lang="pt">Variedades/Saúde</category>
+  </programme>
+  <programme start="20200520133000 -0300" stop="20200520140000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Cozinha Amiga</title>
+    <category lang="pt">Variedades/Culinária</category>
+  </programme>
+  <programme start="20200520140000 -0300" stop="20200520150000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Fofoca Aí</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520180000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Mulheres</title>
+    <category lang="pt">Variedades/Revista Feminina</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520190000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Plantão da Saúde - Coronavírus</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520190000 -0300" stop="20200520200000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Jornal da Gazeta</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520220000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Variedades/Religião</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520230000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Ultrafarma</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520230000 -0300" stop="20200521000000 -0300" channel="TV Gazeta SD">
+    <title lang="pt">Gazeta Shopping</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200520060000 -0300" stop="20200520063000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520063000 -0300" stop="20200520063500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Isso Disso</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520063500 -0300" stop="20200520064500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Traçando Arte</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520064500 -0300" stop="20200520070000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Quintal da Cultura</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520070000 -0300" stop="20200520073000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Baú de Histórias</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520073000 -0300" stop="20200520080000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Sésamo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520080000 -0300" stop="20200520081500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520081500 -0300" stop="20200520083500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Yoga Com Histórias</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520083500 -0300" stop="20200520084500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Jacarelvis e Amigos</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520084500 -0300" stop="20200520090000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Os Cupins</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520090000 -0300" stop="20200520093000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Mundo da Lua</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520093000 -0300" stop="20200520100000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">X-Tudo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520100000 -0300" stop="20200520101000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Eu e o Quarteto Apavorante</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520101000 -0300" stop="20200520102000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Traçando Arte</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520102000 -0300" stop="20200520103000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Sidney</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520103000 -0300" stop="20200520104000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Vamos Brincar!</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520104000 -0300" stop="20200520105000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">O Papel Das Histórias</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200520105000 -0300" stop="20200520110000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Nilba e os Desastronautas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520110000 -0300" stop="20200520111500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Os Cupins</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520111500 -0300" stop="20200520112000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Blog do Geninho</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520112000 -0300" stop="20200520112500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">A Mansão Maluca do Professor Ambrósio</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520112500 -0300" stop="20200520114000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Escola pra Cachorro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520114000 -0300" stop="20200520115000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">O Diário de Mika</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200520115000 -0300" stop="20200520120000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200520120000 -0300" stop="20200520122000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Pratinho da Iaiá</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520122000 -0300" stop="20200520123000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Astro Não Mia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520123000 -0300" stop="20200520130000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520130000 -0300" stop="20200520133000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520133000 -0300" stop="20200520134500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Quintal da Cultura</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520134500 -0300" stop="20200520140000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Cocoricó na Cidade</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520140000 -0300" stop="20200520143000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Sésamo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520143000 -0300" stop="20200520150000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Mundo da Lua</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520150000 -0300" stop="20200520153000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">X-Tudo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520153000 -0300" stop="20200520155000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Yoga Com Histórias</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520155000 -0300" stop="20200520160000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">O Papel Das Histórias</title>
+    <category lang="pt">Infantil/Programa</category>
+  </programme>
+  <programme start="20200520160000 -0300" stop="20200520170000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Teatro Rá Tim Bum!: A Borboleta sem Asas</title>
+    <category lang="pt">Espetáculo/Teatro</category>
+  </programme>
+  <programme start="20200520170000 -0300" stop="20200520171500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Os Cupins</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520171500 -0300" stop="20200520172000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Sidney</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520172000 -0300" stop="20200520173000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Astro Não Mia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520173000 -0300" stop="20200520174000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200520174000 -0300" stop="20200520175000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">O Diário de Mika</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200520175000 -0300" stop="20200520180000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">A Mansão Maluca do Professor Ambrósio</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520180000 -0300" stop="20200520181000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Jacarelvis e Amigos</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520181000 -0300" stop="20200520182000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Eu e o Quarteto Apavorante</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520182000 -0300" stop="20200520183000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Nilba e os Desastronautas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520183000 -0300" stop="20200520185000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Cocoricó na Cidade</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520185000 -0300" stop="20200520190000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Traçando Arte</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520190000 -0300" stop="20200520191500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Yoga Com Histórias</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520191500 -0300" stop="20200520193000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Rubra e as Criaturas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520193000 -0300" stop="20200520200000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Musical Rá Tim Bum! - Pato Fu</title>
+    <category lang="pt">Espetáculo/Musical</category>
+  </programme>
+  <programme start="20200520200000 -0300" stop="20200520202000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Dj Cão e a Loja de Discos</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520202000 -0300" stop="20200520203000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Os Cupins</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520203000 -0300" stop="20200520210000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Que Monstro te Mordeu?</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520210000 -0300" stop="20200520213000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Mundo da Lua</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520213000 -0300" stop="20200520214500 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Repórter Rá Teen Bum</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200520214500 -0300" stop="20200520220000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Traçando Arte</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200520220000 -0300" stop="20200520233000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">Era Uma Vez No Quintal</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+  <programme start="20200520233000 -0300" stop="20200521000000 -0300" channel="TV Ra Tim Bum SD">
+    <title lang="pt">X-Tudo</title>
+    <category lang="pt">Séries/Infantil</category>
+  </programme>
+</tv>
