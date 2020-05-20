@@ -1,7 +1,6 @@
-#EXTM3U
-  
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/31/items/band_20200520/band.jpg" group-title="Canais Abertos",Bandeitantes Nordeste SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/22
+
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/31/items/band_20200520/band.jpg" group-title="Canais Abertos",Bandeitantes SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/21
 #EXTINF:-1 tvg-logo="https://ia601400.us.archive.org/31/items/band_20200520/band.jpg" group-title="Canais Abertos",Bandeitantes SP SD
@@ -26,3 +25,81 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/149
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/148
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/tv%20novo%20tempo.jpg" group-title="Canais Abertos",Novo Tempo SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/221
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/polishop.jpg" group-title="Canais Abertos",Polishop TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038288
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/record.jpg" group-title="Canais Abertos",Record RJ HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715077
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/record.jpg" group-title="Canais Abertos",Record SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/250
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/record.jpg" group-title="Canais Abertos",Record SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/249
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Record%20News.jpg" group-title="Canais Abertos",Record News HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/254
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Record%20News.jpg" group-title="Canais Abertos",Record News SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/253
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Rede%20Familia.jpg" group-title="Canais Abertos",Rede Família SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/13416
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Rede%20Gospel.jpg" group-title="Canais Abertos",Rede Góspel SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717116
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Rede%20Vida.jpg" group-title="Canais Abertos",Rede Vida HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/259
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Rede%20Vida.jpg" group-title="Canais Abertos",Rede Vida SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/258
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/rede%20tv.jpg" group-title="Canais Abertos",RedeTV! HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/257
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/rede%20tv.jpg" group-title="Canais Abertos",RedeTV! SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/256
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/RIT%20TV.jpg" group-title="Canais Abertos",RIT TV SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717114
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/SBT.jpg" group-title="Canais Abertos",SBT RJ HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/66349
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/SBT.jpg" group-title="Canais Abertos",SBT SP HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/262
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/SBT.jpg" group-title="Canais Abertos",SBT SP SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/261
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Shoptime.jpg" group-title="Canais Abertos",Shoptime SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1038289
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/TV%20Aparecida.jpg" group-title="Canais Abertos",TV Aparecida SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/717115
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/TV%20Gazeta.jpg" group-title="Canais Abertos",TV Gazeta SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/321
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/TV%20Ra%20Tim%20Bum.jpg" group-title="Canais Abertos",TV Ra Tim Bum SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755752
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/TV%20S%C3%A9culo%2021.jpg" group-title="Canais Abertos",TV Século 21
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755662
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Viva.jpg" group-title="Canais Abertos",Viva HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/330
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Viva.jpg" group-title="Canais Abertos",Viva SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/329
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Band%20Sports.jpg" group-title="Esportes",Band Sports HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/28
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Band%20Sports.jpg" group-title="Esportes",Band Sports SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/27
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Combate.jpg" group-title="Esportes",Combate HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/49
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Combate.jpg" group-title="Esportes",Combate SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/48
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/DAZN.jpg" group-title="Esportes",DAZN 1
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032873
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/DAZN.jpg" group-title="Esportes",DAZN 2
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032889
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Ei%20Plus.jpg" group-title="Esportes",Ei Plus 1
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/715087
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/Ei%20Plus.jpg" group-title="Esportes",Ei Plus 2
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/1032899
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/espn.jpg" group-title="Esportes",ESPN HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/86
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/espn.jpg" group-title="Esportes",ESPN SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/85
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/espn%202.jpg" group-title="Esportes",ESPN 2 HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/91
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/espn%202.jpg" group-title="Esportes",ESPN 2 SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/90
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/ESPN%20Brasil.jpg" group-title="Esportes",ESPN Brasil HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/88
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/ESPN%20Brasil.jpg" group-title="Esportes",ESPN Brasil SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/87
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/ESPN%20Extra.jpg" group-title="Esportes",ESPN Extra HD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755664
+#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/ESPN%20Extra.jpg" group-title="Esportes",ESPN Extra SD
+http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/755663
