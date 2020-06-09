@@ -281,9 +281,7 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/115
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/0/items/canal-brasil/Fox%20Premium%202.jpg" group-title="Filmes",Fox Premium 2 SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/114
 #EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/0/items/canal-brasil/FX.jpg" group-title="Filmes",FX HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/99
-#EXTINF:-1 tvg-logo="https://ia801507.us.archive.org/0/items/canal-brasil/FX.jpg" group-title="Filmes",FX SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/98
+https://player.ec.cx/player3/canaishlb.php?canal=fx
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/HBO.jpg" group-title="Filmes",HBO HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/171
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/HBO.jpg" group-title="Filmes",HBO SD
