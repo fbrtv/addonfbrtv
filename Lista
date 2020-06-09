@@ -17,9 +17,7 @@ http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/123
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/futura.jpg" group-title="Canais Abertos",Futura SD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/122
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/globo.jpg" group-title="Canais Abertos",Globo RJ HD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/143
-#EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/globo.jpg" group-title="Canais Abertos",Globo RJ SD
-http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/142
+https://player.ec.cx/player3/canaishlb.php?canal=boborj
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/globo.jpg" group-title="Canais Abertos",Globo SP HD
 http://rtrmsrv22.gq:8080/madson-restream/57sfo2ni/149
 #EXTINF:-1 tvg-logo="https://ia601507.us.archive.org/0/items/canal-brasil/globo.jpg" group-title="Canais Abertos",Globo SP SD
